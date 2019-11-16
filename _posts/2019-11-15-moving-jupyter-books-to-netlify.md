@@ -10,7 +10,7 @@ intro_paragraph: >-
 
 
 
-  It is a complicated situation, since some are on the Master branch, some are
+  - It is a complicated situation, since some are on the Master branch, some are
   on the ch branch, some have different versions of software, particularly
   Ruby....
 
