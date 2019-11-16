@@ -22,20 +22,17 @@ intro_paragraph: >
   ----------------------------------
 ---
 
-* Master directory contains book subdirectories:
-  `~/Repos/BookJupyter/`
-
-
-* Current list: 
-
-| Directory          | Static Site Builder | Status           |
-| ------------------ | ------------------- | ---------------- |
-| B2050              | jekyll JB           | Github published |
-| BB                 |                     |                  |
-| berkeleyvision2050 |                     |                  |
-| dailycal           |                     |                  |
-| h1                 | jekyll JB           | published        |
-
-Some are on the Master branch, some are on the ch branch, some have different versions of software, particularly Ruby....
-
-But it should work.  Netlfy allows renaming URL's which is important now.
+<section class="progress window">
+ <h1>Progress of "Jupyter Books moved to Netlify"</h1>
+ <details>
+  <summary>Drag and Drop... <progress max="375505392" value="97543282"></progress> 25%</summary>
+  <dl>
+   <dt>Explore book directory:</dt> <dd>Friday, 15 Nov</dd>
+   <dt>Local filename:</dt> <dd>/home/rpausch/raycd.m4v</dd>
+   <dt>Remote filename:</dt> <dd>/var/www/lectures/raycd.m4v</dd>
+   <dt>Duration:</dt> <dd>01:16:27</dd>
+   <dt>Color profile:</dt> <dd>SD (6-1-6)</dd>
+   <dt>Dimensions:</dt> <dd>320×240</dd>
+  </dl>
+ </details>
+</section>
